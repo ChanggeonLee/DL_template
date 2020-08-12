@@ -1,4 +1,6 @@
 # 
+logs/
+
 data/x_train.npy
 data/y_train.npy
 data/x_test.npy
