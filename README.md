@@ -1,2 +1,2 @@
-# DL_template
-For tensorflow2 Deep learning template
+# RU-Net
+RNN &amp; U-Net predict for Wind tunnel experiment

@@ -1,3 +1,11 @@
+# 
+data/x_train.npy
+data/y_train.npy
+data/x_test.npy
+data/y_test.npy
+
+save_model/model.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
